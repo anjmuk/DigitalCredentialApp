@@ -16,7 +16,7 @@
 		<%--Importing all the dependent classes--%>
 		<%@page import="com.digitalcredentials.vo.UserVO"%>
 
-		<h1 align="center" style="color: blue;">Select Program</h1>
+		<h1 align="center" style="color: blue;">Search Program</h1>
 		<form:form method="POST" action="searchProgram"
 			modelAttribute="programDetails">
 			<table>
